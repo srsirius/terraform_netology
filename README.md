@@ -10,3 +10,4 @@
 6 файл .terraformrc
 7 файл terraform.rc
 
+New line
