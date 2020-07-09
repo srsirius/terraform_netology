@@ -1,4 +1,5 @@
 # devops-netologyNew line
+# commit from pycharm
 
 Исключения из индексирования:
 
